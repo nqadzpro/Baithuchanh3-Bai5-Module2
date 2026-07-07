@@ -1,0 +1,2 @@
+Nên dùng static đối với các giá trị dùng chung cho hệ thống VD: Tên ngân hàng, Số lượng tài khoản đã tạo, Lãi suất
+Dùng instance đối với các giá trị riêng biệt của mỗi đối tượng VD: Tên, Số dư.
